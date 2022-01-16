@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+    box-sizing: border-box;
+}
+
+
+body{
+
+min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+}
+/*Icons*/
+
+#service{
+    width: 20%; 
+    height: 20%;
+}
+
+#webdev{
+    width: 40%; 
+    height: 40%;
+}
+
+#camera{
+    width: 40%; 
+    height: 40%;
+}
+
+#film{
+    width: 40%; 
+    height: 40%;
+}
+
+#contact{
+    height: 90px;
+}
+
+#html{
+    height: 35px;
+}
+
+#css{
+    height: 35px;
+}
+
+#boots{
+    height: 35px;
+}
+
+#photog{
+    height: 35px;
+}
+
+#cinema{
+    height: 35px;
+}
+
+footer{
+
+    margin-top: auto;
+    display: block;
+}
